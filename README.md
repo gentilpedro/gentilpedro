@@ -18,7 +18,7 @@
   <img align="center" alt="Pedro-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="RPedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pedro-GIF" src="https://discordapp.com/channels/@me/1046926514878414908/1334005296171057182">
+<img align="right" alt="Pedro-GIF" height="auto" width="200" src="https://media.discordapp.net/attachments/718299411280691270/1334003784023806003/clideo_editor_5fc54d6d6af540f4aeef11679cb2f29a.gif?ex=679af356&is=6799a1d6&hm=628c37be586099770d03000842379c6ef2716820133001f214cb91b49fa47e35&=&width=810&height=455">
 </div>
 
 <br/>
@@ -29,6 +29,4 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gntil.pedro21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/pedro-gentil-7548561ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- ![Snake animation](https://github.com/gentilpedro/gentilpedro/blob/output/github-contribution-grid-snake.svg)
 </div>
