@@ -1,7 +1,9 @@
 ##Oii! Sou o Pedro Gentil!!
 
-- 🔭 Hoje trabalho com full-stack  - 📫 Contate-me no email: gentil.pedro21@gmail.com
-- 🌱 Estudando Java e PHP          - 😄 Pronouns: ele/dele  Discord: pedrogentil21
+- 🔭 Hoje trabalho com full-stack
+- 📫 Contate-me no email: gentil.pedro21@gmail.com
+- 🌱 Estudando Java e PHP
+- 😄 Discord: pedrogentil21
 
 
 ![Pedro Gentil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gentilpedro&show_icons=true&theme=radical) 
