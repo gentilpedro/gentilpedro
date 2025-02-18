@@ -1,4 +1,4 @@
-##Oii! Sou o Pedro Gentil!!
+Oii! Sou o Pedro Gentil!!
 
 - 🔭 Hoje trabalho com full-stack
 - 📫 Contate-me no email: gentil.pedro21@gmail.com
