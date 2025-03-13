@@ -2,7 +2,7 @@ Oii! Sou o Pedro Gentil!!
 
 - 🔭 Hoje trabalho com full-stack
 - 📫 Contate-me no email: gentil.pedro21@gmail.com
-- 🌱 Estudando Java e PHP
+- 🌱 Estudando Java, PHP, TS, Python
 - 😄 Discord: pedrogentil21
 
 
