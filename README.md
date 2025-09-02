@@ -2,7 +2,7 @@ Oii! Sou o Pedro Gentil!!
 
 - 🔭 Hoje trabalho com full-stack
 - 📫 Contate-me no email: gentil.pedro21@gmail.com
-- 🌱 Estudando Java, PHP, TS, Python
+- 🌱 Estudando Java, C# , TS, Python
 - 😄 Discord: pedrogentil21
 
 
@@ -11,6 +11,7 @@ Oii! Sou o Pedro Gentil!!
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Pedro-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
