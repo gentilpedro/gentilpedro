@@ -1,13 +1,10 @@
 Oii! Sou o Pedro Gentil!!
 
 - 🔭 Hoje trabalho com full-stack
-- 📫 Contate-me no email: gentil.pedro21@gmail.com
+- 📫 Contate-me no email: pedro.desenv@gmail.com
 - 🌱 Estudando Java, C# , TS, Python
 - 😄 Discord: pedrogentil21
 
-
-![Pedro Gentil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gentilpedro&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentilpedro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
