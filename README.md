@@ -1,11 +1,12 @@
 Oii! Sou o Pedro Gentil!!
 
-- 🔭 Hoje trabalho com full-stack
+- 🔭 Hoje trabalho com full-stack em .NET 9.0
 - 📫 Contate-me no email: pedro.desenv@gmail.com
-- 🌱 Estudando Java, C# , TS, Python
 - 😄 Discord: pedrogentil21
 
 ##
+<div style="display: inline_block">
+  <h1> Minhas Stacks e tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Pedro-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
@@ -19,8 +20,8 @@ Oii! Sou o Pedro Gentil!!
   <img align="center" alt="RPedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="right" alt="Pedro-GIF" height="auto" width="200" src="https://media.discordapp.net/attachments/718299411280691270/1334003784023806003/clideo_editor_5fc54d6d6af540f4aeef11679cb2f29a.gif?ex=679af356&is=6799a1d6&hm=628c37be586099770d03000842379c6ef2716820133001f214cb91b49fa47e35&=&width=810&height=455">
+</div> 
 </div>
-
 <br/>
 <hr/>
 <br/>
