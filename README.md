@@ -6,7 +6,7 @@ Oii! Sou o Pedro Gentil!!
 
 ##
 <div style="display: inline_block">
-  <h1> Minhas Stacks e tecnologias</h1>
+  <h3> Minhas Stacks: </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Pedro-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
