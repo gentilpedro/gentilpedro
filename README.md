@@ -1,6 +1,6 @@
 Oii! Sou o Pedro Gentil!!
 
-- 🔭 Hoje trabalho com full-stack em .NET 9.0
+- 🔭 Hoje trabalho com full-stack em .NET
 - 📫 Contate-me no email: pedro.desenv@gmail.com
 - 😄 Discord: pedrogentil21
 
