@@ -33,3 +33,22 @@ jobs:
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
+
+      - name: Diagnostic - habits isolated
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: debug-habits.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      - name: Diagnostic - achievements isolated
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: debug-achievements.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
