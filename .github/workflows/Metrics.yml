@@ -15,6 +15,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
+          retries: 3
+          retries_delay: 30
 
           base: header, activity, community, repositories
           config_timezone: America/Sao_Paulo
@@ -24,3 +26,10 @@ jobs:
           plugin_languages_limit: 6
 
           plugin_notable: yes
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
